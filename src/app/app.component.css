@@ -87,8 +87,26 @@ div.bg-default
 }
 div.third_span
 {
-     border: 1px solid red;
+     border: 1px solid black;
     margin-left: 54px;
-    width: 23%;
+    width: 28%;
+   
+    border-radius: 8px;
+padding-top:18px;
+  padding-bottom: 18px;
+  padding-left: 20px;
+  padding-right: 20px;
 
+}
+
+div.fourth_div
+{
+  height:220px;
+ background-color: rgb(47, 194, 47);
+}
+
+h2.potential_benifits
+{
+  font-size: 70px;
+  text-align: center;
 }
