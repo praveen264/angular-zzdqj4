@@ -26,7 +26,7 @@ h1,p
 {
   background-image: url("https://images.learnmall.in/batCover.jpg");
   height: 275px;
-  //margin-top: 0px;
+  margin-top: 0px;
 }
 .heading1
 {
@@ -51,7 +51,7 @@ button
 }
 .second_div
 {
-  margin-left: 20px;
+  margin-left: 10px;
 }
 .first_span
 {
@@ -63,6 +63,32 @@ button
 }
 div.second_span
 {
-  width:25%;
+  width:26%;
   background-color: green;
+  border-radius: 8px;
+  padding-top:18px;
+  padding-bottom: 18px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+div.bg-default
+{
+  background-color: #1b293c;
+}
+.green
+{
+  color:green;
+}
+.white
+{
+  color:white;
+  font-size: 20px;
+}
+div.third_span
+{
+     border: 1px solid red;
+    margin-left: 54px;
+    width: 23%;
+
 }
